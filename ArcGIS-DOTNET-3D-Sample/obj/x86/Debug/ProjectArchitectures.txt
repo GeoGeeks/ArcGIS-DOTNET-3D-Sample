@@ -1,0 +1,1 @@
+C:\Users\SEMILLERO\Google Drive\Proyectos\WindowsPhone\ArcGIS-DOTNET-3D-Sample\ArcGIS-DOTNET-3D-Sample\ArcGIS-DOTNET-3D-Sample.csproj;x86
